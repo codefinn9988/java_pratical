@@ -1,0 +1,14 @@
+Types of Layout Managers
+ 1. FlowLayout
+ Description: FlowLayout arranges components in a row, from left to right.
+ When the container's width is exceeded, it wraps to the next line. This
+ layout is ideal for simple interfaces where components should maintain their
+ natural sizes.
+ Usage: It is commonly used in panels where you want components to flow
+ naturally without any specific positioning.
+ 2. BorderLayout
+ Description: BorderLayout divides the container into five regions: NORTH,
+ SOUTH, EAST, WEST, and CENTER. Each region can hold one component, which will
+ expand to fill the available space.
+ Usage: This layout is suitable for applications that need distinct sections,
+ such as toolbars or status bars.

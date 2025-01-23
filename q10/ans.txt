@@ -1,0 +1,10 @@
+Features of Object-Oriented Programming (OOP)
+Object-Oriented Programming (OOP) is a programming paradigm that uses objects to represent data and methods to manipulate that data. Key features of OOP include:
+
+Encapsulation: This principle restricts direct access to some of an object's components, which can prevent the accidental modification of data. It allows for the bundling of data (attributes) and methods (functions) that operate on the data into a single unit or class.
+
+Inheritance: Inheritance allows a new class to inherit properties and behavior from an existing class. This promotes code reusability and establishes a hierarchical relationship between classes.
+
+Polymorphism: Polymorphism enables objects to be treated as instances of their parent class, allowing for methods to be used interchangeably, which enhances flexibility in code.
+
+Abstraction: Abstraction focuses on hiding complex implementation details and showing only the necessary features of an object. This simplifies interaction with the object.

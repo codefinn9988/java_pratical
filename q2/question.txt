@@ -1,0 +1,19 @@
+Discuss various scopes of JSP objects briefly.
+Create a HTML file with principal, time and rate.
+Then create a JSP file that reads values from the HTML form,
+calculates simple interest and displays it
+
+Ans: 
+1. Page Scope:
+Accessible only within the same JSP page.
+Exists for the duration of the page request.
+2. Request Scope:
+Accessible across any JSP or servlet handling the same HTTP request.
+Exists until the response is sent back to the client.
+3. Session Scope:
+Accessible across multiple requests from the same user session.
+Exists for the duration of the user's session.
+4. Application Scope:
+Accessible from any JSP or servlet within the same web application.
+Exists for the entire lifecycle of the application.
+
