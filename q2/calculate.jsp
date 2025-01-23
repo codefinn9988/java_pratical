@@ -16,6 +16,6 @@
         Time Period: <%= time %> years<br>
         <b>Simple Interest: $<%= String.format("%.2f", interest) %></b>
     </p>
-    <a href="interest.html">Calculate Another</a>
+    <a href="intrest.html">Calculate Another</a>
 </body>
 </html>
